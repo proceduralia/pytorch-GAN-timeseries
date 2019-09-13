@@ -1,0 +1,7 @@
+__pycache__/
+net*
+log/
+Dataset*
+clean_last_experiment.py
+checkpoints/
+images/

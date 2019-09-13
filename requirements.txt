@@ -1,0 +1,6 @@
+torch==1.0.0
+matplotlib==2.1.0
+torchvision==0.2.1
+pandas==0.22.0
+numpy==1.15.4
+tensorboardX==1.6
